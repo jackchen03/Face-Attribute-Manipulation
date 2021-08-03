@@ -1,6 +1,7 @@
 # Face Attribute Manipulation
 
-Using the AttGAN implementation of [elvisyjlin/AttGAN-PyTorch/](https://github.com/elvisyjlin/AttGAN-PyTorch/)
+- Using the AttGAN implementation of [elvisyjlin/AttGAN-PyTorch/](https://github.com/elvisyjlin/AttGAN-PyTorch/)
+- This is a demo project for the Open House event at Academia Sinica in 2019
 
 
 ## Data
